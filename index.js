@@ -37,7 +37,7 @@ if(err){
     return;
 } console.log(data );
 })
-fs.appendFile('newfile','Data added ',(err)=>{
+fs.appendFile('new.txt','Data added ',(err)=>{
     if(err){
         console.log(err)
     }console.log("File Updated .....")
