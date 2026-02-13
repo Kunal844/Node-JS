@@ -8,5 +8,18 @@
     "dev": "nodemon"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunal844/Node-JS.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Kunal844/Node-JS/issues"
+  },
+  "homepage": "https://github.com/Kunal844/Node-JS#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
 }
