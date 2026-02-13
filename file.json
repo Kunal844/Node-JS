@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "class": "10A"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "class": "10A"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "class": "10B"
+  },
+  {
+    "id": 4,
+    "name": "Diana Miller",
+    "class": "10B"
+  },
+  {
+    "id": 5,
+    "name": "Ethan Davis",
+    "class": "11A"
+  }
+]
