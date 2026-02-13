@@ -42,3 +42,10 @@ fs.appendFile('new.txt','Data added ',(err)=>{
         console.log(err)
     }console.log("File Updated .....")
 })
+fs.cp("new.txt","copied.txt",(err)=>{
+    if(err){
+        console.log(err)
+    }
+    console.log("Copied")
+})
+fs.unlinkSync("copied.txt")
